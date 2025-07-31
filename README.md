@@ -86,16 +86,23 @@ python main.py --mode [scrape|analyze|full] --pages [num_pages] --days-back [num
 
 ```
 naukri-data-analyst-scraper/
-├── config.py           # Configurations & constants
-├── scraper.py          # Web scraping logic
-├── data_processor.py   # Data cleaning & processing
-├── analyzer.py         # Job market analysis
-├── visualizer.py       # Visualizations & dashboards
-├── database.py         # SQLite operations
-├── utils.py            # Helper functions
-├── main.py             # Entry point
-├── data/               # Raw & processed data
-└── logs/               # Application logs
+├── __pycache__/          # Compiled Python files
+├── config.py             # Configurations & constants
+├── scraper.py            # Web scraping logic
+├── data_processor.py     # Data cleaning & processing
+├── analyzer.py           # Job market analysis
+├── visualizer.py         # Visualizations & dashboards
+├── database.py           # SQLite operations
+├── utils.py              # Helper functions
+├── main.py               # Entry point
+├── requirements.txt      # Project dependencies
+├── data/                 # Raw & processed data
+├── logs/                 # Application logs
+├── debug_page_1.html     # Debugging HTML sample (1)
+├── debug_page_2.html     # Debugging HTML sample (2)
+├── debug_page_3.html     # Debugging HTML sample (3)
+└── README.md             # Project description & usage
+
 ```
 
 ---
