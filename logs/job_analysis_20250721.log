@@ -1,0 +1,329 @@
+2025-07-21 19:20:20,367 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:20:20,367 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:20:20,381 - database - INFO - Database initialized successfully
+2025-07-21 19:20:20,381 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:20:20,381 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:20:24,996 - scraper - ERROR - Error scraping page 1: 403 Client Error: Forbidden for url: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:20:24,996 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:20:25,009 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 1, 'status': 'completed_with_errors'}
+2025-07-21 19:20:25,011 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 1, 'status': 'completed_with_errors'}
+2025-07-21 19:20:25,011 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:27:41,531 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:27:41,531 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:27:41,535 - database - INFO - Database initialized successfully
+2025-07-21 19:27:41,535 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:27:41,535 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:27:42,260 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:27:42,260 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:27:42,271 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:27:42,275 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:27:42,275 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:41:52,925 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:41:52,925 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:41:52,929 - database - INFO - Database initialized successfully
+2025-07-21 19:41:52,929 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:41:52,929 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:41:53,205 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:41:53,205 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:41:53,213 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:41:53,218 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:41:53,218 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:46:20,203 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:46:20,203 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:46:20,207 - database - INFO - Database initialized successfully
+2025-07-21 19:46:20,207 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:46:20,207 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:46:21,010 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:46:21,011 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:46:21,019 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:46:21,019 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:46:21,019 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:47:54,996 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:47:54,996 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:47:54,999 - database - INFO - Database initialized successfully
+2025-07-21 19:47:54,999 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:47:54,999 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:47:55,732 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:47:55,734 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:47:55,745 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:47:55,745 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:47:55,745 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:51:46,333 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:51:46,333 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:51:46,333 - database - INFO - Database initialized successfully
+2025-07-21 19:51:46,333 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:51:46,333 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:51:46,677 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:51:46,677 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:51:46,692 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:51:46,692 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:51:46,692 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:51:58,356 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:51:58,356 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:51:58,356 - database - INFO - Database initialized successfully
+2025-07-21 19:51:58,356 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:51:58,356 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:51:58,671 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:51:58,671 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:51:58,671 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:51:58,671 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:51:58,680 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:53:58,184 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:53:58,184 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:53:58,184 - database - INFO - Database initialized successfully
+2025-07-21 19:53:58,184 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:53:58,184 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:53:58,705 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:53:58,705 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:53:58,717 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:53:58,717 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:53:58,721 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:57:13,475 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:57:13,476 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:57:13,478 - database - INFO - Database initialized successfully
+2025-07-21 19:57:13,478 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:57:13,478 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:57:13,797 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:57:13,797 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:57:13,812 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:57:13,812 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:57:13,818 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 19:59:22,032 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 19:59:22,032 - __main__ - INFO - Starting web scraping phase
+2025-07-21 19:59:22,048 - database - INFO - Database initialized successfully
+2025-07-21 19:59:22,048 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 19:59:22,048 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 19:59:22,441 - scraper - WARNING - No job listings found on page 1
+2025-07-21 19:59:22,441 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 19:59:22,450 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:59:22,450 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 19:59:22,450 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:04:11,713 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:04:11,713 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:04:11,713 - database - INFO - Database initialized successfully
+2025-07-21 20:04:11,713 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:04:11,713 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:04:12,010 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:04:12,018 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:04:12,020 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:04:12,020 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:04:12,020 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:12:23,147 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:12:23,147 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:12:23,147 - database - INFO - Database initialized successfully
+2025-07-21 20:12:23,147 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:12:23,147 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:12:32,909 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:12:32,918 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:12:32,918 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:12:32,918 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:12:32,918 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:19:49,346 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:19:49,346 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:19:49,346 - database - INFO - Database initialized successfully
+2025-07-21 20:19:49,346 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:19:49,346 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:19:50,284 - scraper - ERROR - Playwright access failed: new_page() got an unexpected keyword argument 'headers'
+2025-07-21 20:19:50,284 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:19:50,284 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:19:50,298 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:19:50,298 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:19:50,298 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:20:38,435 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:20:38,435 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:20:38,436 - database - INFO - Database initialized successfully
+2025-07-21 20:20:38,436 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:20:38,436 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:20:39,303 - scraper - ERROR - Playwright access failed: new_page() got an unexpected keyword argument 'headers'
+2025-07-21 20:20:39,303 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:20:39,303 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:20:39,308 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:20:39,308 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:20:39,308 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:22:50,035 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:22:50,035 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:22:50,035 - database - INFO - Database initialized successfully
+2025-07-21 20:22:50,035 - __main__ - ERROR - An error occurred during analysis: 'JobScraper' object has no attribute 'scrape_all_pages'
+Traceback (most recent call last):
+  File "D:\Data_analyst_job_market\main.py", line 45, in main
+    scraped_jobs = scraper.scrape_all_pages(max_pages=args.pages)
+AttributeError: 'JobScraper' object has no attribute 'scrape_all_pages'
+2025-07-21 20:24:15,229 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:24:15,229 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:24:15,229 - database - INFO - Database initialized successfully
+2025-07-21 20:24:15,229 - __main__ - ERROR - An error occurred during analysis: 'JobScraper' object has no attribute 'scrape_all_pages'
+Traceback (most recent call last):
+  File "D:\Data_analyst_job_market\main.py", line 45, in main
+    scraped_jobs = scraper.scrape_all_pages(max_pages=args.pages)
+AttributeError: 'JobScraper' object has no attribute 'scrape_all_pages'
+2025-07-21 20:28:24,585 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:28:24,585 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:28:24,585 - database - INFO - Database initialized successfully
+2025-07-21 20:28:24,585 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:28:24,585 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:31:17,133 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 10, 'duplicates_found': 10, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:31:17,134 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 10, 'duplicates_found': 10, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:31:17,134 - __main__ - INFO - Job market analysis completed successfully
+2025-07-21 20:31:17,134 - __main__ - INFO - Application finished
+2025-07-21 20:36:54,730 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:36:54,730 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:36:54,730 - database - INFO - Database initialized successfully
+2025-07-21 20:36:54,730 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:36:54,730 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:40:10,609 - scraper - INFO - Scraping interrupted by user
+2025-07-21 20:40:10,619 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 0, 'duplicates_found': 20, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:40:10,619 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 0, 'duplicates_found': 20, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:40:10,621 - __main__ - INFO - Job market analysis completed successfully
+2025-07-21 20:40:10,621 - __main__ - INFO - Application finished
+2025-07-21 20:43:04,047 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:43:04,047 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:43:04,053 - database - INFO - Database initialized successfully
+2025-07-21 20:43:04,053 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:43:04,053 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:43:52,161 - scraper - INFO - Scraping interrupted by user
+2025-07-21 20:43:52,165 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:43:52,165 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:43:52,169 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:43:56,478 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:43:56,478 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:43:56,483 - database - INFO - Database initialized successfully
+2025-07-21 20:43:56,483 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:43:56,484 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:44:33,391 - scraper - ERROR - Playwright access failed: Page.content: Target page, context or browser has been closed
+2025-07-21 20:44:33,400 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:44:33,400 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:44:33,406 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:44:33,406 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:44:33,406 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:44:48,367 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: scrape
+2025-07-21 20:44:48,367 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:44:48,368 - database - INFO - Database initialized successfully
+2025-07-21 20:44:48,368 - scraper - INFO - Starting scrape of up to 1 pages
+2025-07-21 20:44:48,368 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:45:21,139 - scraper - ERROR - Playwright access failed: Page.content: Target page, context or browser has been closed
+2025-07-21 20:45:21,143 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:45:21,143 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:45:21,147 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:45:21,149 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:45:21,149 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:45:37,088 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:45:37,088 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:45:37,091 - database - INFO - Database initialized successfully
+2025-07-21 20:45:37,091 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:45:37,091 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:47:36,948 - scraper - INFO - Scraping interrupted by user
+2025-07-21 20:47:36,960 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:47:36,962 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:47:36,962 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:47:41,056 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:47:41,056 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:47:41,058 - database - INFO - Database initialized successfully
+2025-07-21 20:47:41,058 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:47:41,058 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:53:40,016 - scraper - INFO - Scraping interrupted by user
+2025-07-21 20:53:40,020 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:53:40,020 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:53:40,020 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:53:43,983 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:53:43,983 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:53:43,985 - database - INFO - Database initialized successfully
+2025-07-21 20:53:43,985 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:53:45,339 - scraper - INFO - Browser started.
+2025-07-21 20:53:45,339 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:55:46,803 - scraper - INFO - Scraping page 2: https://www.naukri.com/data-analyst-jobs-2
+2025-07-21 20:56:28,802 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-chandigarh-0-to-4-years-210725504257: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-07-21 20:56:28,810 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-jalandhar-0-to-4-years-210725504222: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,822 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-moga-0-to-4-years-210725504259: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,878 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-hoshiarpur-0-to-4-years-210725504300: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,892 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-amritsar-0-to-4-years-210725504241: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,906 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-faridkot-0-to-4-years-210725504240: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,936 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-sangrur-0-to-4-years-210725504189: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,944 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-pathankot-0-to-4-years-210725504149: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,952 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-malerkotla-0-to-4-years-210725504130: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,960 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-mohali-0-to-4-years-210725504128: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,966 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-ludhiana-0-to-4-years-210725504127: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,974 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-patiala-0-to-4-years-210725504209: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,989 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-fazilka-0-to-4-years-210725504190: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:28,995 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-jalandhar-ludhiana-patiala-amritsar-0-to-4-years-210725504129: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:31,188 - scraper - INFO - Scraping page 3: https://www.naukri.com/data-analyst-jobs-3
+2025-07-21 20:56:31,192 - scraper - ERROR - Page access failed for https://www.naukri.com/data-analyst-jobs-3: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:56:31,192 - scraper - WARNING - No job listings found on page 3
+2025-07-21 20:56:31,192 - scraper - INFO - No jobs found on page 3, stopping
+2025-07-21 20:56:31,205 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 2, 'jobs_found': 40, 'jobs_inserted': 0, 'duplicates_found': 40, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:56:31,645 - scraper - INFO - Browser stopped.
+2025-07-21 20:56:31,645 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 2, 'jobs_found': 40, 'jobs_inserted': 0, 'duplicates_found': 40, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:56:31,645 - __main__ - INFO - Starting data processing phase
+2025-07-21 20:56:31,662 - database - INFO - Database initialized successfully
+2025-07-21 20:56:31,662 - data_processor - INFO - Starting complete data processing pipeline
+2025-07-21 20:56:31,662 - data_processor - INFO - Loading job data from last 30 days
+2025-07-21 20:56:31,667 - data_processor - INFO - Loaded 10 job postings
+2025-07-21 20:56:31,668 - data_processor - INFO - Starting data cleaning process
+2025-07-21 20:56:31,670 - data_processor - INFO - Removed 0 duplicate records
+2025-07-21 20:56:31,706 - data_processor - INFO - Data cleaning completed. Final dataset: 10 records
+2025-07-21 20:56:31,708 - data_processor - INFO - Summary statistics generated
+2025-07-21 20:56:31,713 - __main__ - ERROR - An error occurred during analysis: name 'os' is not defined
+Traceback (most recent call last):
+  File "D:\Data_analyst_job_market\main.py", line 58, in main
+    df_clean, summary_stats, skills_analysis = processor.process_all(days_back=args.days_back)
+  File "D:\Data_analyst_job_market\data_processor.py", line 226, in process_all
+    self.save_processed_data(df_clean)
+  File "D:\Data_analyst_job_market\data_processor.py", line 201, in save_processed_data
+    filepath = os.path.join(Config.PROCESSED_DATA_DIR, filename)
+NameError: name 'os' is not defined
+2025-07-21 20:58:02,175 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:58:02,175 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:58:02,179 - database - INFO - Database initialized successfully
+2025-07-21 20:58:02,179 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:58:03,234 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:58:16,447 - scraper - ERROR - Playwright access failed: Page.wait_for_selector: Timeout 10000ms exceeded.
+Call log:
+  - waiting for locator("div.srp-jobtuple-wrapper") to be visible
+
+2025-07-21 20:58:16,454 - scraper - WARNING - No job listings found on page 1
+2025-07-21 20:58:16,454 - scraper - INFO - No jobs found on page 1, stopping
+2025-07-21 20:58:16,602 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:58:16,602 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:58:16,602 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-07-21 20:58:37,461 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-07-21 20:58:37,461 - __main__ - INFO - Starting web scraping phase
+2025-07-21 20:58:37,462 - database - INFO - Database initialized successfully
+2025-07-21 20:58:37,462 - scraper - INFO - Starting scrape of up to 50 pages
+2025-07-21 20:58:38,829 - scraper - INFO - Browser started.
+2025-07-21 20:58:38,829 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-07-21 20:59:32,563 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-abohar-0-to-4-years-210725504358: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-07-21 20:59:32,571 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-ambala-0-to-4-years-210725504357: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,582 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-nawanshahr-0-to-4-years-210725504327: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,591 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-barnala-0-to-4-years-210725504326: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,606 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-bathinda-0-to-4-years-210725504302: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,631 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-khanna-0-to-4-years-210725504301: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,660 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-hoshiarpur-0-to-4-years-210725504300: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,676 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-moga-0-to-4-years-210725504259: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,691 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-sirsa-0-to-4-years-210725504258: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,694 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-chandigarh-0-to-4-years-210725504257: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,703 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-amritsar-0-to-4-years-210725504241: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:32,711 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-online-data-analyst-punjabi-language-telus-digital-ai-data-solutions-faridkot-0-to-4-years-210725504240: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:34,864 - scraper - INFO - Scraping page 2: https://www.naukri.com/data-analyst-jobs-2
+2025-07-21 20:59:34,868 - scraper - ERROR - Page access failed for https://www.naukri.com/data-analyst-jobs-2: Page.goto: Target page, context or browser has been closed
+2025-07-21 20:59:34,868 - scraper - WARNING - No job listings found on page 2
+2025-07-21 20:59:34,868 - scraper - INFO - No jobs found on page 2, stopping
+2025-07-21 20:59:34,884 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 0, 'duplicates_found': 20, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:59:35,272 - scraper - INFO - Browser stopped.
+2025-07-21 20:59:35,272 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 0, 'duplicates_found': 20, 'errors': 0, 'status': 'completed'}
+2025-07-21 20:59:35,272 - __main__ - INFO - Starting data processing phase
+2025-07-21 20:59:35,276 - database - INFO - Database initialized successfully
+2025-07-21 20:59:35,276 - data_processor - INFO - Starting complete data processing pipeline
+2025-07-21 20:59:35,276 - data_processor - INFO - Loading job data from last 30 days
+2025-07-21 20:59:35,284 - data_processor - INFO - Loaded 10 job postings
+2025-07-21 20:59:35,285 - data_processor - INFO - Starting data cleaning process
+2025-07-21 20:59:35,288 - data_processor - INFO - Removed 0 duplicate records
+2025-07-21 20:59:35,308 - data_processor - INFO - Data cleaning completed. Final dataset: 10 records
+2025-07-21 20:59:35,309 - data_processor - INFO - Summary statistics generated
+2025-07-21 20:59:35,314 - __main__ - ERROR - An error occurred during analysis: name 'os' is not defined
+Traceback (most recent call last):
+  File "D:\Data_analyst_job_market\main.py", line 58, in main
+    df_clean, summary_stats, skills_analysis = processor.process_all(days_back=args.days_back)
+  File "D:\Data_analyst_job_market\data_processor.py", line 226, in process_all
+    self.save_processed_data(df_clean)
+  File "D:\Data_analyst_job_market\data_processor.py", line 201, in save_processed_data
+    filepath = os.path.join(Config.PROCESSED_DATA_DIR, filename)
+NameError: name 'os' is not defined
