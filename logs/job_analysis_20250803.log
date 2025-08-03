@@ -1,0 +1,30 @@
+2025-08-03 19:10:25,053 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-08-03 19:10:25,054 - __main__ - INFO - Starting web scraping phase
+2025-08-03 19:10:25,059 - database - INFO - Database initialized successfully
+2025-08-03 19:10:25,059 - scraper - INFO - Starting scrape of up to 50 pages
+2025-08-03 19:10:42,625 - scraper - INFO - Browser stopped.
+2025-08-03 19:10:42,626 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-08-03 19:10:42,626 - scraper - ERROR - Page access failed for https://www.naukri.com/data-analyst-jobs: 'NoneType' object has no attribute 'goto'
+2025-08-03 19:10:42,629 - scraper - WARNING - No job listings found on page 1
+2025-08-03 19:10:42,630 - scraper - INFO - No jobs found on page 1, stopping
+2025-08-03 19:10:42,638 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-08-03 19:10:42,639 - scraper - INFO - Browser stopped.
+2025-08-03 19:10:42,639 - __main__ - INFO - Scraping completed. Stats: {'pages_scraped': 0, 'jobs_found': 0, 'jobs_inserted': 0, 'duplicates_found': 0, 'errors': 0, 'status': 'completed'}
+2025-08-03 19:10:42,640 - __main__ - ERROR - No jobs scraped. Exiting.
+2025-08-03 19:18:49,557 - __main__ - INFO - Starting Data Analyst Job Market Analysis - Mode: full
+2025-08-03 19:18:49,558 - __main__ - INFO - Starting web scraping phase
+2025-08-03 19:18:49,562 - database - INFO - Database initialized successfully
+2025-08-03 19:18:49,563 - scraper - INFO - Starting scrape of up to 50 pages
+2025-08-03 19:18:52,030 - scraper - INFO - Browser started.
+2025-08-03 19:18:52,032 - scraper - INFO - Scraping page 1: https://www.naukri.com/data-analyst-jobs
+2025-08-03 19:20:42,707 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-procurement-data-analyst-novartis-healthcare-pvt-ltd-hyderabad-2-to-8-years-300725504214: Page.wait_for_timeout: Target page, context or browser has been closed
+2025-08-03 19:20:42,718 - scraper - ERROR - Page access failed for https://www.naukri.com/job-listings-data-eng-mgmt-governance-analyst-accenture-solutions-pvt-ltd-gurugram-3-to-5-years-280725913129: Page.goto: Target page, context or browser has been closed
+2025-08-03 19:20:44,985 - scraper - INFO - Scraping page 2: https://www.naukri.com/data-analyst-jobs-2
+2025-08-03 19:20:44,990 - scraper - ERROR - Page access failed for https://www.naukri.com/data-analyst-jobs-2: Page.goto: Target page, context or browser has been closed
+2025-08-03 19:20:44,992 - scraper - WARNING - No job listings found on page 2
+2025-08-03 19:20:44,993 - scraper - INFO - No jobs found on page 2, stopping
+2025-08-03 19:20:45,005 - scraper - INFO - Scraping completed. Stats: {'pages_scraped': 1, 'jobs_found': 20, 'jobs_inserted': 12, 'duplicates_found': 8, 'errors': 0, 'status': 'completed'}
+2025-08-03 19:20:45,499 - __main__ - INFO - Analysis interrupted by user
+2025-08-03 19:20:45,500 - __main__ - INFO - Application finished
+2025-08-03 19:20:45,800 - asyncio - ERROR - Task was destroyed but it is pending!
+task: <Task pending name='Task-69' coro=<Browser.close() done, defined at C:\Users\SATHISH A\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_browser.py:232> wait_for=<Future pending cb=[Task.task_wakeup()]> cb=[SyncBase._sync.<locals>.<lambda>() at C:\Users\SATHISH A\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_sync_base.py:111, ProtocolCallback.__init__.<locals>.cb() at C:\Users\SATHISH A\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py:228]>

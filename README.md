@@ -3,6 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](#)
 [![License](https://img.shields.io/badge/license-Open%20Source-green.svg)](#)
 [![Status](https://img.shields.io/badge/Status-Active-success.svg)](#)
+![Main Interface](./screenshot/image1.png)
 
 > A comprehensive tool for **scraping**, **analyzing**, and **visualizing** the Data Analyst job market from job portals like **Naukri.com**.
 > It provides insights into in-demand skills, job distribution, company hiring patterns, salary trends, and more.
