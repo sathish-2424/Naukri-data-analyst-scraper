@@ -1,7 +1,3 @@
-Here’s a **restyled version** of your README with a clean and professional GitHub-friendly look. I’ve improved the formatting, added badges, emojis, and a clear visual hierarchy to make it more engaging:
-
----
-
 # 📊 Data Analyst Job Market Analysis
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](#)
